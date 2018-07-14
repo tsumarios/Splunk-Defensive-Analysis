@@ -18,6 +18,7 @@ This report deals with the following CVE vulnerabilities:
  - Twitter: twitter.com/mraciti_dev
 
 
+   [Splunk software]: <https://www.splunk.com>
    [docs]: <https://github.com/zMrDevJ/Splunk-Defensive-Analysis/blob/master/Splunk%20-%20Analisi%20Difensiva.pdf>
    [CVE-2011-4642]: <https://nvd.nist.gov/vuln/detail/CVE-2011-4642>
    [CVE-2017-5607]: <https://nvd.nist.gov/vuln/detail/CVE-2017-5607>
