@@ -1,5 +1,5 @@
 # Splunk-Defensive-Analysis
-Scientific report about data management by [Splunk software] which, with three related CVE vulnerabilities analysis, is aimed to highlight Splunk reliability. This project was made as an internet security relation at Univesity of Catania, Italy.
+Scientific paper about data management by [Splunk software] which, with three related CVE vulnerabilities analysis, is aimed to highlight Splunk reliability. This project was made as an internet security relation at Univesity of Catania, Italy.
 
 ### Please read documentation (italian) at [docs]
 
