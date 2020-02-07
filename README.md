@@ -11,9 +11,8 @@ This report deals with the following CVE vulnerabilities:
 
 ##### Contacts
 
- - Email: mraciti96@gmail.com
+ - Email: marioraciti@pm.me
  - LinkedIn: linkedin.com/in/marioraciti
- - Facebook: facebook.com/MarioRacitiDev
  - Twitter: twitter.com/zMrDevJ
 
 
