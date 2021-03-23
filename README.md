@@ -13,7 +13,7 @@ This report deals with the following CVE vulnerabilities:
 
  - Email: marioraciti@pm.me
  - LinkedIn: linkedin.com/in/marioraciti
- - Twitter: twitter.com/zMrSec
+ - Twitter: twitter.com/tsumarios
 
 
    [Splunk software]: <https://www.splunk.com>
